@@ -36,7 +36,6 @@ simple-scan
 cinnamon
 fuse
 libfuse2
-pipewire-audio
 #papirus-icon-theme
 #orchis-gtk-theme
 --install-recommends
