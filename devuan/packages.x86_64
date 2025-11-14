@@ -4,6 +4,7 @@ efibootmgr
 xinit
 xserver-xorg
 linux-image-amd64
+firmware*
 lightdm
 lightdm-gtk-greeter
 plymouth
