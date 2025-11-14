@@ -12,7 +12,6 @@ linux_args: username=devuan hostname=devuan noswap quiet console=tty31
 grub_cfg: grub.cfg
 packages:
  - packages.x86_64
- - firmware.x86_64
 file_permissions:
  - /etc/shadow|0:0:400
 customize_airootfs_pre:
