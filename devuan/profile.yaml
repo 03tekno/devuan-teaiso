@@ -18,4 +18,4 @@ file_permissions:
 customize_airootfs_pre:
  - customize-airootfs.sh
 keyring_package: devuan-keyring
-repository: https://pkgmaster.devuan.org/merged
+repository: http://deb.devuan.org/merged
